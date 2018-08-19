@@ -45,4 +45,8 @@ public class Search2T2String {
         System.out.println(s);
 		return true;
 	}
+	
+    public void testAdd() {
+    	
+    }
 }
