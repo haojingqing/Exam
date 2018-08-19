@@ -5,6 +5,7 @@ package algorithm;
  * */
 public class Search2T2String {
     
+	
 	public static void main(String[] args) {
 		String s="goxxoglexxx";
 		//boolean flag=searchStr(s);
